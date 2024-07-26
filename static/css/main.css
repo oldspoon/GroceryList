@@ -1,0 +1,58 @@
+body {
+    font-family: "Helvetica";
+    font-size: 2.0em;
+    text-align: center;
+}
+
+#remove_items {
+    background-color: #E5E5E5;
+    color: #302B29;
+    padding: 35px;
+}
+
+
+label {
+    margin: 25px 5px;
+}
+
+
+#add_btn:hover {
+    background-color: rgb(47, 56, 79);
+}
+
+#add_btn {
+    background-color: #3301a8;
+    color: white;
+    font-weight: bold;
+    border-radius: 20px;
+    border: 2px solid white;
+    margin: 10px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#remove_btn {
+    background-color: rgb(146, 146, 146);
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+    border: 2px solid white;
+    margin: 10px;
+    padding: 10px 15px;
+}
+
+img {
+    width: 400px;
+    padding: 20px;
+}
+
+select {
+    font-family: "Helvetica";
+    font-size: 0.95em;
+    text-align: center;
+    width: 200px;
+    margin: 50px 10px;
+    padding: 5px 0;
+    border: 2px solid rgb(100, 100, 100);
+}
+
